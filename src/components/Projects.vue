@@ -6,9 +6,9 @@ const projets = ref([
         name:'Mini Gestion Ecole', 
         description:"Application web gestion ecole. C'est un dashboard.", 
         techno: [
-            'HTML/CSS' , 'JavaScript', 'DJANGO'
+            'HTML/CSS' , 'TailwindCSS', 'JavaScript', 'PHP'
         ],
-        github: 'https://github.com/arsene/mini-gestion-ecole'
+        github: 'https://github.com/Arsene-Faly/MINI_GESTION_ECOLE.git'
     },
     {   
         id: 2, 
@@ -17,7 +17,7 @@ const projets = ref([
         techno: [
             'Vue.js', 'TailwindCSS'
         ],
-        github: 'https://github.com/arsene/portfolio'
+        github: 'https://github.com/Arsene-Faly/Arsene-portfolio.git'
     },
     {   
         id: 3, 
@@ -26,7 +26,7 @@ const projets = ref([
         techno: [
             'Nuxt.js', 'Markdown'
         ],
-        github: 'https://github.com/arsene/blog-tech'
+        github: 'https://github.com/Arsene-Faly/gestionbudgetaire.git'
     },
 ])
 
