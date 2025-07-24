@@ -1,0 +1,7 @@
+Vue native application mobile
+
+-Vue dev tools
+
+ref : etat ou state(stockage donnée)
+
+    @vite('resources/css/app.css')
