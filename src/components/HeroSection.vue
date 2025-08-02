@@ -9,18 +9,15 @@ import vueJs from "../assets/images/techno/vue.png";
   <section id="hero" class="min-h-screen flex items-center py-10 px-2 sm:py-20 sm:px-6 pt-30">
     <div class="container mx-auto">
       <div class="flex flex-col-reverse sm:flex-col lg:flex-row items-center gap-8 sm:gap-12 lg:gap-16">
-        <!-- Photo + Technologies -->
         <div class="w-full sm:w-3/4 lg:w-2/5 flex flex-col items-center mx-auto">
-          <!-- Photo de profil -->
           <div class="photo-container mb-8 sm:mb-12">
             <div
               class="relative w-40 h-40 sm:w-64 sm:h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-green-400 shadow-lg"
             >
-              <!-- Remplacez par votre photo -->
               <img
                 :src="profil"
                 alt="Photo de profil Arsène"
-                class="w-full h-full object-cover transition-transform duration-500 hover:scale-105 hover:rotate-2 bg-gray-800"
+                class="w-full h-full object-cover transition-transform duration-500 hover:scale-105 hover:rotate-2 bg-[#080f2c]"
                 aria-label="Photo de profil"
               />
             </div>

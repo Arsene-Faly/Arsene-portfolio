@@ -210,7 +210,7 @@ const competences = ref({
       <!-- Séparation par catégorie -->
       <div v-for="(items, type) in competences" :key="type" class="mb-16 cursor-pointer">
         <h3
-          class="text-4xl font-extrabold text-green-400 mb-8 text-left border-l-4 border-green-400 pl-4 bg-gradient-to-r from-green-900/30 via-transparent to-transparent"
+          class="text-4xl font-extrabold text-green-400 mb-8 text-left border-l-4 border-green-400 pl-4 bg-[#080f2c]"
         >
           {{ type }}
         </h3>
@@ -220,7 +220,7 @@ const competences = ref({
           <div
             v-for="data in items"
             :key="data.id"
-            class="skill-card rounded-3xl p-8 flex flex-col items-center h-72 relative group"
+            class="skill-card bg-[#080f2c] rounded-3xl p-8 flex flex-col items-center h-72 relative group"
           >
             <div
               v-if="data.img"
@@ -268,7 +268,6 @@ const competences = ref({
 <style scoped>
 .skill-card {
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  background: linear-gradient(135deg, #1e293b 60%, #0f172a 100%);
   position: relative;
   overflow: hidden;
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.18);

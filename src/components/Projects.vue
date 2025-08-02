@@ -47,7 +47,7 @@ function next() {
             <p class="text-gray-400 text-center max-w-2xl mx-auto mb-12 text-lg">Une sélection de mes réalisations récentes.</p>
             <div class="flex flex-col items-center">
                 <transition name="fade-slide" mode="out-in">
-                    <div :key="projets[current].id" class="project-card bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 border border-green-700 rounded-2xl p-8 w-full ml-1 shadow-xl transition duration-300">
+                    <div :key="projets[current].id" class="project-card bg-[#080f2c] border border-green-700 rounded-2xl p-8 w-full ml-1 shadow-xl transition duration-300">
                         <h3 class="text-2xl font-extrabold mb-4 text-center text-green-400 uppercase tracking-wide">{{ projets[current].name }}</h3>
                         <p class="text-gray-300 mb-6 text-center text-lg">{{ projets[current].description }}</p>
                         <div class="flex flex-wrap gap-3 justify-center mb-4" aria-label="Technologies utilisées">

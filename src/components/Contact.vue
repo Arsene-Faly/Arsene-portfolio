@@ -29,7 +29,7 @@
                 required
                 aria-required="true"
                 aria-label="Nom"
-                class="w-full bg-gray-900 border border-gray-600 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-green-500"
+                class="w-full bg-[#080f2c] border border-gray-600 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-green-500"
               />
             </div>
             <div>
@@ -43,7 +43,7 @@
                 required
                 aria-required="true"
                 aria-label="Email"
-                class="w-full bg-gray-900 border border-gray-600 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-green-500"
+                class="w-full bg-[#080f2c] border border-gray-600 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-green-500"
               />
             </div>
             <div>
@@ -57,7 +57,7 @@
                 required
                 aria-required="true"
                 aria-label="Message"
-                class="w-full bg-gray-900 border border-gray-600 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-green-500"
+                class="w-full bg-[#080f2c] border border-gray-600 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-green-500"
               ></textarea>
             </div>
             <button
@@ -71,7 +71,7 @@
           </form>
         </div>
         <div class="md:w-1/2">
-          <div class="bg-gray-900 p-8 rounded-2xl h-full ml-2 space-y-8">
+          <div class="bg-[#080f2c] p-8 rounded-2xl h-full ml-2 space-y-8">
             <!-- Titre Coordonnées -->
             <h3 class="text-xl font-bold mb-4">Coordonnées</h3>
 
