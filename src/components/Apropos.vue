@@ -40,12 +40,17 @@ Passionné par le développement web, je m'appelle Arsène et j'ai 20 ans. J'aim
               <h3 class="text-2xl font-bold text-green-400 mb-4">Mes études</h3>
               <div class="space-y-4">
                 <div class="bg-[#1f284d] rounded-lg p-4 shadow transition-transform duration-300 hover:scale-105 hover:border-green-400 border border-transparent">
-                  <h4 class="font-bold text-lg text-white mb-1">Licence Informatique – ESMIA Mahamasina</h4>
+                  <h4 class="font-bold text-lg text-white mb-1">Formation en développement web – HOPES FORMATION à Andavamamba</h4>
+                  <p class="text-gray-400 text-sm">2025 (en 6 mois)</p>
+                  <p class="text-gray-300">Apprentissage pratique des technologies front-end et back-end pour concevoir et réaliser des projets web modernes et performants.</p>
+                </div>
+                <div class="bg-[#1f284d] rounded-lg p-4 shadow transition-transform duration-300 hover:scale-105 hover:border-green-400 border border-transparent">
+                  <h4 class="font-bold text-lg text-white mb-1">Licence Informatique – ESMIA à Mahamasina</h4>
                   <p class="text-gray-400 text-sm">2022 - 2024</p>
                   <p class="text-gray-300">Spécialisation en développement web et conception de bases de données, avec une orientation vers les risques et la prise de décision.</p>
                 </div>
                 <div class="bg-[#1f284d] rounded-lg p-4 shadow transition-transform duration-300 hover:scale-105 hover:border-green-400 border border-transparent">
-                  <h4 class="font-bold text-lg text-white mb-1">Baccalauréat – Lycée Privé La Croyance, Andavamamba</h4>
+                  <h4 class="font-bold text-lg text-white mb-1">Baccalauréat – Lycée Privé La Croyance à Andavamamba</h4>
                   <p class="text-gray-400 text-sm">2020 - 2021</p>
                   <p class="text-gray-300">Bases solides en programmation, algorithmique et conception d'applications.</p>
                 </div>
