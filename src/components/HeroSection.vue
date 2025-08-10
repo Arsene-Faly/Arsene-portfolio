@@ -1,8 +1,11 @@
 <script setup>
+import { ArrowDownCircleIcon } from "@heroicons/vue/24/outline";
 import profil from "../assets/images/profil/sariko1.png";
 import django from "../assets/images/techno/django.svg";
 import laravel from "../assets/images/techno/Laravel.svg.png";
 import vueJs from "../assets/images/techno/vue.png";
+
+import pdf from "../assets/cv_arsene.pdf"
 </script>
 
 <template>
@@ -57,7 +60,7 @@ import vueJs from "../assets/images/techno/vue.png";
           </div>
 
           <h3 class="text-base sm:text-xl font-semibold mb-2 text-center underline underline-offset-8">
-            Technologies Maîtrisées
+            Compétences techniques
           </h3>
           <div class="flex justify-center gap-4 sm:gap-8 flex-wrap">
             <!-- Laravel Heroicon SVG -->
@@ -132,9 +135,9 @@ import vueJs from "../assets/images/techno/vue.png";
           </div>
 
           <div class="flex flex-col sm:flex-row gap-2 sm:gap-4">
-            <a href="/arsene.pdf" download
+            <a :href="pdf" download
               class="bg-gradient-to-r from-green-500 to-green-700 hover:bg-green-800 text-white text-base sm:text-lg font-bold px-4 sm:px-8 py-2 sm:py-4 rounded-lg transition flex-1 text-center flex items-center justify-center gap-2">
-              <FontAwesomeIcon :icon="faDownload" /> Télécharger mon CV
+              Télécharger mon CV
             </a>
             <a href="#projets"
               class="border border-green-600 text-green-400 hover:bg-green-900 text-base sm:text-lg font-bold px-4 sm:px-8 py-2 sm:py-4 rounded-lg transition flex-1 text-center">

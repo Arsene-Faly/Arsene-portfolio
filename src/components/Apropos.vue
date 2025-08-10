@@ -20,18 +20,18 @@ Passionné par le développement web, je m'appelle Arsène et j'ai 20 ans. J'aim
               <h3 class="text-2xl font-bold text-green-400 mb-4">Mon parcours professionnel</h3>
               <div class="space-y-4">
                 <div class="bg-[#1f284d] rounded-lg p-4 shadow transition-transform duration-300 hover:scale-105 hover:border-green-400 border border-transparent">
-                  <h4 class="font-bold text-lg text-white mb-1">Stagiaire – Développeur d'applications de gestion budgétaire</h4>
-                  <p class="text-gray-400 text-sm">2024</p>
+                  <h4 class="font-bold text-lg text-white mb-1">Stagiaire – Développeur d'applications de gestion budgétaire - Ministère de l'Intérieur</h4>
+                  <p class="text-gray-400 text-sm">12 février au 12 mai 2024</p>
                   <p class="text-gray-300">Création de dashboards de gestion financière avec Django, orientés suivi des dépenses et génération de rapports.</p>
                 </div>
                 <div class="bg-[#1f284d] rounded-lg p-4 shadow transition-transform duration-300 hover:scale-105 hover:border-green-400 border border-transparent">
-                  <h4 class="font-bold text-lg text-white mb-1">Stagiaire – Développeur d’un logiciel de gestion de bibliothèque</h4>
-                  <p class="text-gray-400 text-sm">2020 - 2022</p>
+                  <h4 class="font-bold text-lg text-white mb-1">Stagiaire – Développeur d’un logiciel de gestion de bibliothèque - Lycée Saint Pierre MALAZA Andoharanofotsy</h4>
+                  <p class="text-gray-400 text-sm">16 mai au 16 Août 2023</p>
                   <p class="text-gray-300">Développement d’un logiciel de gestion de bibliothèque avec Python : enregistrement des livres, suivi des emprunts/retours, et gestion des utilisateurs.</p>
                 </div>
                 <div class="bg-[#1f284d] rounded-lg p-4 shadow transition-transform duration-300 hover:scale-105 hover:border-green-400 border border-transparent">
-                  <h4 class="font-bold text-lg text-white mb-1">Stagiaire – Stage de découverte au EDUC PLUS</h4>
-                  <p class="text-gray-400 text-sm">2019 - 2020</p>
+                  <h4 class="font-bold text-lg text-white mb-1">Stagiaire – Stage de découverte – EDUC PLUS</h4>
+                  <p class="text-gray-400 text-sm">2022 (en 3 mois)</p>
                   <p class="text-gray-300">Observation et participation aux activités administratives et pédagogiques dans un établissement secondaire, dans le cadre d’un stage d’orientation scolaire.</p>
                 </div>
               </div>
@@ -40,19 +40,19 @@ Passionné par le développement web, je m'appelle Arsène et j'ai 20 ans. J'aim
               <h3 class="text-2xl font-bold text-green-400 mb-4">Mes études</h3>
               <div class="space-y-4">
                 <div class="bg-[#1f284d] rounded-lg p-4 shadow transition-transform duration-300 hover:scale-105 hover:border-green-400 border border-transparent">
-                  <h4 class="font-bold text-lg text-white mb-1">Formation en développement web – HOPES FORMATION à Andavamamba</h4>
+                  <h4 class="font-bold text-lg text-white mb-1">Formation en développement web – HOPES FORMATION, Andavamamba</h4>
                   <p class="text-gray-400 text-sm">2025 (en 6 mois)</p>
-                  <p class="text-gray-300">Apprentissage pratique des technologies front-end et back-end pour concevoir et réaliser des projets web modernes et performants.</p>
+                  <p class="text-gray-300">Apprentissage pratique des technologies front-end et back-end pour la conception et la réalisation de projets web modernes et performants.</p>
                 </div>
                 <div class="bg-[#1f284d] rounded-lg p-4 shadow transition-transform duration-300 hover:scale-105 hover:border-green-400 border border-transparent">
-                  <h4 class="font-bold text-lg text-white mb-1">Licence Informatique – ESMIA à Mahamasina</h4>
-                  <p class="text-gray-400 text-sm">2022 - 2024</p>
+                  <h4 class="font-bold text-lg text-white mb-1">Licence en Informatique – ESMIA, Mahamasina</h4>
+                  <p class="text-gray-400 text-sm">2023 - 2024</p>
                   <p class="text-gray-300">Spécialisation en développement web et conception de bases de données, avec une orientation vers les risques et la prise de décision.</p>
                 </div>
                 <div class="bg-[#1f284d] rounded-lg p-4 shadow transition-transform duration-300 hover:scale-105 hover:border-green-400 border border-transparent">
-                  <h4 class="font-bold text-lg text-white mb-1">Baccalauréat – Lycée Privé La Croyance à Andavamamba</h4>
+                  <h4 class="font-bold text-lg text-white mb-1">Baccalauréat serie D – Lycée Privé La Croyance, Andavamamba</h4>
                   <p class="text-gray-400 text-sm">2020 - 2021</p>
-                  <p class="text-gray-300">Bases solides en programmation, algorithmique et conception d'applications.</p>
+                  <p class="text-gray-300">Diplôme de fin d’études secondaires, spécialité scientifique.</p>
                 </div>
               </div>
             </div>
