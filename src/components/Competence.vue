@@ -27,6 +27,8 @@ import pgsql from "../assets/images/techno/Postgresql_elephant.svg";
 
 import git from "../assets/images/techno/github.png";
 
+import next from "../assets/images/techno/icons8-nextjs-480.png"
+
 const competences = ref({
   "Framework Backend": [
     {
@@ -79,7 +81,18 @@ const competences = ref({
       id: 5,
       img: react,
       name: "React",
-      niveau: "Débutant",
+      niveau: "Intermédiaire",
+      percent: 50,
+      style: "width: 20%",
+      description:
+        "Création d’applications SPA avec gestion de composants et intégration d’API REST.",
+      alt: "Logo React",
+    },
+    {
+      id: 5,
+      img: next,
+      name: "Next js",
+      niveau: "Intermédiaire",
       percent: 20,
       style: "width: 20%",
       description:

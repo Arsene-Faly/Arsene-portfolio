@@ -3,7 +3,7 @@ import { ArrowDownCircleIcon } from "@heroicons/vue/24/outline";
 import profil from "../assets/images/profil/sariko1.png";
 import django from "../assets/images/techno/django.svg";
 import laravel from "../assets/images/techno/Laravel.svg.png";
-import vueJs from "../assets/images/techno/vue.png";
+import vueJs from "../assets/images/techno/physics.png";
 
 import pdf from "../assets/cv_arsene.pdf"
 </script>
@@ -69,7 +69,7 @@ import pdf from "../assets/cv_arsene.pdf"
                 class="w-14 h-14 sm:w-20 sm:h-20 border border-gray-700 rounded-full flex items-center justify-center mb-2 shadow-lg group-hover:scale-110 transition-transform duration-300">
                 <img :src="laravel" alt="Laravel" class="h-8 w-8 sm:h-12 sm:w-12 object-contain" />
               </div>
-              <span class="text-xs sm:text-base font-bold text-red-500">Laravel</span>
+              <span class="text-xs sm:text-base font-bold text-white">Laravel</span>
             </div>
 
             <!-- Django Heroicon SVG -->
@@ -78,7 +78,7 @@ import pdf from "../assets/cv_arsene.pdf"
                 class="w-14 h-14 sm:w-20 sm:h-20 border border-gray-700 rounded-full flex items-center justify-center mb-2 shadow-lg group-hover:scale-110 transition-transform duration-300">
                 <img :src="django" alt="Django" class="h-8 w-8 sm:h-12 sm:w-12 object-contain" />
               </div>
-              <span class="text-xs sm:text-base font-bold text-green-700">Django</span>
+              <span class="text-xs sm:text-base font-bold text-white">Django</span>
             </div>
 
             <!-- Vue.js Heroicon SVG -->
@@ -87,7 +87,7 @@ import pdf from "../assets/cv_arsene.pdf"
                 class="w-14 h-14 sm:w-20 sm:h-20 border border-gray-700 rounded-full flex items-center justify-center mb-2 shadow-lg group-hover:scale-110 transition-transform duration-300">
                 <img :src="vueJs" alt="Vue.js" class="h-8 w-8 sm:h-12 sm:w-12 object-contain" />
               </div>
-              <span class="text-xs sm:text-base font-bold text-green-500">Vue.js</span>
+              <span class="text-xs sm:text-base font-bold text-white">React Js</span>
             </div>
           </div>
         </div>
@@ -102,16 +102,15 @@ import pdf from "../assets/cv_arsene.pdf"
             </span>
             <span
               class="bg-gradient-to-r from-green-600 via-green-400 to-green-300 bg-clip-text text-transparent text_shadow text-shine">
-              Laravel
+              Laravel,
             </span>
-            ,
             <span
               class="bg-gradient-to-r from-green-700 via-green-500 to-green-300 bg-clip-text text-transparent text_shadow text-shine">
               Django &
             </span>
             <span
               class="bg-gradient-to-r from-green-400 via-green-300 to-green-200 bg-clip-text text-transparent text_shadow text-shine">
-              Vue.js
+              React js
             </span>
           </h1>
 
